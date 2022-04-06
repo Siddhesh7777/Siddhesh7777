@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Siddhesh Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -10,7 +11,7 @@
 - 🌱 I’m currently learning **React JS | DSA | Web dev**
 
 - 💬 Ask me about **C++ and OOP**
-
+<img src="https://media.istockphoto.com/vectors/working-programmer-vector-id1141615466?k=20&m=1141615466&s=612x612&w=0&h=ksUtyecArKRac1mWaTBh5y6DWhUk9v1vpASbCaebMK0=">
 - 📫 How to reach me **siddheshspatil2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
