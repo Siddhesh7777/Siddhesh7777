@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/vectors/working-programmer-vector-id1141615466?k=20&m=1141615466&s=612x612&w=0&h=ksUtyecArKRac1mWaTBh5y6DWhUk9v1vpASbCaebMK0=">
+<img src="https://media.istockphoto.com/vectors/working-programmer-vector-id1141615466?k=20&m=1141615466&s=612x612&w=0&h=ksUtyecArKRac1mWaTBh5y6DWhUk9v1vpASbCaebMK0=" height="20vh" width="100vw">
 <h1 align="center">Hi 👋, I'm Siddhesh Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
