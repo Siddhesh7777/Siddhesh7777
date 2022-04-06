@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhesh7777" alt="siddhesh7777" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@siddhes32629279" target="blank"><img src="https://img.shields.io/twitter/follow/@siddhes32629279?logo=twitter&style=for-the-badge" alt="@siddhes32629279" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@siddhes32629479" target="blank"><img src="https://img.shields.io/twitter/follow/@siddhes32629479?logo=twitter&style=for-the-badge" alt="@siddhes32629479" /></a> </p>
 
 - 🌱 I’m currently learning **React JS | DSA | Web dev**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@siddhes32629279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@siddhes32629279" height="30" width="40" /></a>
+<a href="https://twitter.com/@siddhes32629479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@siddhes32629479" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
